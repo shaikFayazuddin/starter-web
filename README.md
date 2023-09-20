@@ -10,6 +10,7 @@ As stated above, the main purpose is to provide simple examples for git training
 
 ##Deployment
 This is a simple web project, deployment can be on any web server or evel local
-file system
+file system.
+This is how you deploy.
 
 ##How To Contribute
