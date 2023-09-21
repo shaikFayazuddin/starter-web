@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> shaikFayazuddin <role> Software Developer <twitter>
 
 # THANKS
 
-    <name>
+    Shaik Fayazuddin
 
 # TECHNOLOGY COLOPHON
 
