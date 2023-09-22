@@ -6,6 +6,7 @@
     <name> shaikFayazuddin <role> Software Developer <twitter>
 
 # THANKS
+	Thanks to my tutor and mentore for teaching me the Git and github
 
     Shaik Fayazuddin
 
