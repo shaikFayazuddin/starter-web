@@ -7,7 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos.
 As stated above, the main purpose is to provide simple examples for git training demos.
 
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfeature branch too.
+
 
 
 
