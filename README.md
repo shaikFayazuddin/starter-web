@@ -9,7 +9,7 @@ As stated above, the main purpose is to provide simple examples for git training
 
 Adding a line for rebasing example, then more changes from myfeature branch too.
 
-
+adding a line for emergency fix and demonstrating stashing for untracked files.
 
 
 ##Deployment
