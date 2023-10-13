@@ -14,3 +14,14 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+
+randomly adding the line to demonstarte the multiple stashing
+=======
+adding the line to same file as second stash, this might lead to confilict but let's see
+>>>>>>> Stashed changes
+=======
+adding the line to same file as second stash, this might lead to confilict but let's see
+>>>>>>> Stashed changes
