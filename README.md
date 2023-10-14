@@ -23,3 +23,5 @@ Please fork this repo and issue pull request for review.
 Please leave a review.
 give a 5 star
 All rights are reserved.
+
+making chabnges to understand git fetch and pull
